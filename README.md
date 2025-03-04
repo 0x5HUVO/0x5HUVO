@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hey there, I'm Shuvo!<br><br>🎓 Student of Diploma in Computer Science & Technology<br>💻 Aspiring Android Developer | Tech & AI Enthusiast<br>🎨 UI/UX & Graphic Design Enthusiast<br>📱  Building Android apps with Jetpack Compose<br>🛠  Currently learning: Kotlin, Jetpack Compose, and UI/UX Design<br>🚀 Passionate about coding, gaming, and exploring new technologies!
 
 
